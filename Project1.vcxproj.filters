@@ -55,5 +55,8 @@
     <ClCompile Include="백준8911(거북이).cpp">
       <Filter>Coding Test</Filter>
     </ClCompile>
+    <ClCompile Include="백준1141(접두사).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
