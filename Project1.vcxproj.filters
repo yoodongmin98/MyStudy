@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Coding Test">
+      <UniqueIdentifier>{c8dfdcdf-6843-41b1-9630-4dae0d4cbc1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm">
+      <UniqueIdentifier>{ddd0e301-6ff8-45ba-b9a9-fc1baa16d160}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="using,namespace.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="try catch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준2512(예산).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(디펜스게임).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv3(셔틀버스).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘(조합과 순열).cpp">
+      <Filter>Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘(투 포인터).cpp">
+      <Filter>Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(N개의 최소공배수).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2%28혼자 놀기의 달인%29.cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(파일명 정렬).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(달팽이게임).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1926%28그림%29.cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1038(감소하는 수).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
