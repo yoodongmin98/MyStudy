@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
     <Filter Include="Coding Test">
       <UniqueIdentifier>{c8dfdcdf-6843-41b1-9630-4dae0d4cbc1d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Algorithm">
       <UniqueIdentifier>{ddd0e301-6ff8-45ba-b9a9-fc1baa16d160}</UniqueIdentifier>
     </Filter>
+    <Filter Include="C++">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="using,namespace.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>C++</Filter>
     </ClCompile>
     <ClCompile Include="try catch.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>C++</Filter>
     </ClCompile>
     <ClCompile Include="백준2512(예산).cpp">
       <Filter>Coding Test</Filter>
@@ -60,6 +60,24 @@
     </ClCompile>
     <ClCompile Include="프로그래머스lv2(할인행사).cpp">
       <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="t\백준3060 (욕심쟁이돼지).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="t\백준14940(쉬운 최단거리).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="t\백준17265(나의 인생에는 수학과 함께).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="t\프로그래머스lv2(주식가격).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
+    <ClCompile Include="t\namespace.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="t\다익스트라 구현.cpp">
+      <Filter>Algorithm</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

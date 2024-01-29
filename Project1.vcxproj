@@ -127,6 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="t\namespace.cpp" />
+    <ClCompile Include="t\다익스트라 구현.cpp" />
+    <ClCompile Include="t\백준14940(쉬운 최단거리).cpp" />
+    <ClCompile Include="t\백준17265(나의 인생에는 수학과 함께).cpp" />
+    <ClCompile Include="t\백준3060 (욕심쟁이돼지).cpp" />
+    <ClCompile Include="t\프로그래머스lv2(주식가격).cpp" />
     <ClCompile Include="using,namespace.cpp" />
     <ClCompile Include="try catch.cpp" />
     <ClCompile Include="백준1038(감소하는 수).cpp" />
