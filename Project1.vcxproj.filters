@@ -11,6 +11,12 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="Coding Test\백준">
+      <UniqueIdentifier>{b20c5314-be9d-486a-9503-4fbbbda1ddd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Coding Test\프로그래머스">
+      <UniqueIdentifier>{5cd90923-ae5a-4215-a41d-cf63d9ce0bcf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="using,namespace.cpp">
@@ -19,59 +25,11 @@
     <ClCompile Include="try catch.cpp">
       <Filter>C++</Filter>
     </ClCompile>
-    <ClCompile Include="백준2512(예산).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="프로그래머스lv2(디펜스게임).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="프로그래머스lv3(셔틀버스).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
     <ClCompile Include="알고리즘(조합과 순열).cpp">
       <Filter>Algorithm</Filter>
     </ClCompile>
     <ClCompile Include="알고리즘(투 포인터).cpp">
       <Filter>Algorithm</Filter>
-    </ClCompile>
-    <ClCompile Include="프로그래머스lv2(N개의 최소공배수).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="프로그래머스lv2%28혼자 놀기의 달인%29.cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="프로그래머스lv2(파일명 정렬).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="프로그래머스lv2(달팽이게임).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="백준1926%28그림%29.cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="백준1038(감소하는 수).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="백준8911(거북이).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="백준1141(접두사).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="프로그래머스lv2(할인행사).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="t\백준3060 (욕심쟁이돼지).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="t\백준14940(쉬운 최단거리).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="t\백준17265(나의 인생에는 수학과 함께).cpp">
-      <Filter>Coding Test</Filter>
-    </ClCompile>
-    <ClCompile Include="t\프로그래머스lv2(주식가격).cpp">
-      <Filter>Coding Test</Filter>
     </ClCompile>
     <ClCompile Include="t\namespace.cpp">
       <Filter>C++</Filter>
@@ -79,8 +37,59 @@
     <ClCompile Include="t\다익스트라 구현.cpp">
       <Filter>Algorithm</Filter>
     </ClCompile>
+    <ClCompile Include="백준1038(감소하는 수).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1141(접두사).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1926%28그림%29.cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준2512(예산).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="t\백준3060 (욕심쟁이돼지).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준8911(거북이).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
     <ClCompile Include="백준11559(puyo).cpp">
-      <Filter>Coding Test</Filter>
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="t\백준14940(쉬운 최단거리).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="t\백준17265(나의 인생에는 수학과 함께).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(N개의 최소공배수).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(달팽이게임).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(디펜스게임).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="t\프로그래머스lv2(주식가격).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(파일명 정렬).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2(할인행사).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv2%28혼자 놀기의 달인%29.cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv3(셔틀버스).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스lv3(야근지수).cpp">
+      <Filter>Coding Test\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
