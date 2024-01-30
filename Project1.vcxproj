@@ -139,6 +139,7 @@
     <ClCompile Include="백준1141(접두사).cpp" />
     <ClCompile Include="백준11559(puyo).cpp" />
     <ClCompile Include="백준1926%28그림%29.cpp" />
+    <ClCompile Include="백준21610(마법사 상어와 비바라기).cpp" />
     <ClCompile Include="백준2512(예산).cpp" />
     <ClCompile Include="백준8911(거북이).cpp" />
     <ClCompile Include="알고리즘(조합과 순열).cpp" />

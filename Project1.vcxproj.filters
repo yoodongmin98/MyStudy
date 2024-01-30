@@ -91,5 +91,8 @@
     <ClCompile Include="프로그래머스lv3(야근지수).cpp">
       <Filter>Coding Test\프로그래머스</Filter>
     </ClCompile>
+    <ClCompile Include="백준21610(마법사 상어와 비바라기).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
