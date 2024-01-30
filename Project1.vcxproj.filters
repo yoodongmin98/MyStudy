@@ -79,5 +79,8 @@
     <ClCompile Include="t\다익스트라 구현.cpp">
       <Filter>Algorithm</Filter>
     </ClCompile>
+    <ClCompile Include="백준11559(puyo).cpp">
+      <Filter>Coding Test</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
