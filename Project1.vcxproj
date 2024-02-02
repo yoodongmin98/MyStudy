@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -142,6 +142,7 @@
     <ClCompile Include="백준21610(마법사 상어와 비바라기).cpp" />
     <ClCompile Include="백준2512(예산).cpp" />
     <ClCompile Include="백준8911(거북이).cpp" />
+    <ClCompile Include="백준9935(문자열 폭발).cpp" />
     <ClCompile Include="알고리즘(조합과 순열).cpp" />
     <ClCompile Include="알고리즘(투 포인터).cpp" />
     <ClCompile Include="프로그래머스lv2%28혼자 놀기의 달인%29.cpp" />
