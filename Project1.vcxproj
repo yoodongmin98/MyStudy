@@ -135,6 +135,7 @@
     <ClCompile Include="t\프로그래머스lv2(주식가격).cpp" />
     <ClCompile Include="using,namespace.cpp" />
     <ClCompile Include="try catch.cpp" />
+    <ClCompile Include="백준 1327번(소트 게임).cpp" />
     <ClCompile Include="백준1038(감소하는 수).cpp" />
     <ClCompile Include="백준1141(접두사).cpp" />
     <ClCompile Include="백준11559(puyo).cpp" />

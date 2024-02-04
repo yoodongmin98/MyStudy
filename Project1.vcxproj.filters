@@ -94,5 +94,11 @@
     <ClCompile Include="백준21610(마법사 상어와 비바라기).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준9935(문자열 폭발).cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1327번(소트 게임).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
