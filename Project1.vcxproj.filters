@@ -100,5 +100,8 @@
     <ClCompile Include="백준 1327번(소트 게임).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준8111(0과 1).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
