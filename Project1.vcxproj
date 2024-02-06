@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="defalut parameter.cpp" />
     <ClCompile Include="t\namespace.cpp" />
     <ClCompile Include="t\다익스트라 구현.cpp" />
     <ClCompile Include="t\백준14940(쉬운 최단거리).cpp" />
