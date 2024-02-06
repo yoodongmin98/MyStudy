@@ -1,11 +1,6 @@
 //#include <iostream>
 //
 //
-//
-//
-//
-//
-//
 //int memo[100010][3];
 //void Solution()
 //{
@@ -16,7 +11,7 @@
 //        memo[i][2] = memo[i - 1][2] * 10;
 //        memo[i][1] = (memo[i - 1][0] + memo[i - 1][1] + memo[i - 1][2]) * 3 + memo[i - 1][1];
 //    }
-//    int a = 0;
+//
 //}
 //
 //int main()

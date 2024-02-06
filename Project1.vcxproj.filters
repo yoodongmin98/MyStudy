@@ -106,5 +106,8 @@
     <ClCompile Include="백준10802(369게임).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준2505(두번뒤집기).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
