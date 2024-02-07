@@ -112,5 +112,8 @@
     <ClCompile Include="defalut parameter.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="main parameter.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
