@@ -34,7 +34,7 @@
     <ClCompile Include="t\namespace.cpp">
       <Filter>C++</Filter>
     </ClCompile>
-    <ClCompile Include="t\다익스트라 구현.cpp">
+    <ClCompile Include="t\알고리즘%28다익스트라%29.cpp">
       <Filter>Algorithm</Filter>
     </ClCompile>
     <ClCompile Include="백준1038(감소하는 수).cpp">
@@ -114,6 +114,15 @@
     </ClCompile>
     <ClCompile Include="main parameter.cpp">
       <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1001(A-B).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘(이진탐색).cpp">
+      <Filter>Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘%28정렬 모음%29.cpp">
+      <Filter>Algorithm</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
