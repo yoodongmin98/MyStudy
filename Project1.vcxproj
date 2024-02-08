@@ -76,6 +76,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -104,6 +105,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,6 +131,7 @@
   <ItemGroup>
     <ClCompile Include="defalut parameter.cpp" />
     <ClCompile Include="main parameter.cpp" />
+    <ClCompile Include="Struct Parameter.cpp" />
     <ClCompile Include="t\namespace.cpp" />
     <ClCompile Include="t\알고리즘%28다익스트라%29.cpp" />
     <ClCompile Include="t\백준14940(쉬운 최단거리).cpp" />

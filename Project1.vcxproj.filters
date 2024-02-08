@@ -115,6 +115,9 @@
     <ClCompile Include="main parameter.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="Struct Parameter.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
     <ClCompile Include="백준1001(A-B).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
