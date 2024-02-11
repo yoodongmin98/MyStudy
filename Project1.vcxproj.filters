@@ -109,6 +109,9 @@
     <ClCompile Include="프로그래머스lv3(야근지수).cpp">
       <Filter>Coding Test\프로그래머스</Filter>
     </ClCompile>
+    <ClCompile Include="백준 1937번(욕심쟁이 판다).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
