@@ -1,16 +1,16 @@
 //#include <iostream>
 //
 //using namespace std;
-//
+////개 ㅈ같은 문제로구만
 //int N;
 //int Max = 0;
 //int Map[501][501];
 //int Num[501][501] = { 0 };
 //
 //int Dir[4][2] = { {0,-1}, {1,0}, {0,1}, {-1,0} };
-//
-//void Solution(int X,int Y,int Count)
+//void Solution(int X,int Y,int Count,int _StartX, int _StartY)
 //{
+//	bool SideCheck = false;
 //	int Now = Map[Y][X];
 //	for (auto i = 0; i < 4; ++i)
 //	{
@@ -20,12 +20,28 @@
 //		{
 //			if (Map[NY][NX] > Now)
 //			{
-//				Solution(NX, NY, Count+1);
+//				SideCheck = true;
+//				if (Num[NY][NX] != 0) {
+//					int SetC=Count+Num[NY][NX];
+//					if (Num[_StartY][_StartX] < SetC)
+//						Num[_StartY][_StartX] = SetC;
+//					if (SetC > Max)
+//						Max = SetC;
+//				}
+//				else {
+//					Solution(NX, NY, Count + 1, _StartX, _StartY);
+//					--i;
+//				}
 //			}
 //		}
 //	}
+//	if (SideCheck == false) {
+//		Num[Y][X] = 1;
+//	}
 //	if (Count > Max)
 //		Max = Count;
+//	if (Num[_StartY][_StartX] < Count)
+//		Num[_StartY][_StartX] = Count;
 //}
 //
 //int main()
@@ -43,7 +59,8 @@
 //	{
 //		for (auto j = 0; j < N; ++j)
 //		{
-//			Solution(j,i,1);
+//			if(Num[i][j]==0)
+//				Solution(j,i,1,j,i);
 //		}
 //	}
 //	cout << Max;

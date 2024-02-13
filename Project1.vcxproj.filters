@@ -112,8 +112,11 @@
     <ClCompile Include="백준10802(369게임).cpp">
       <Filter>Coding Test\못푼거</Filter>
     </ClCompile>
-    <ClCompile Include="백준2470(두 용액).cpp">
+    <ClCompile Include="백준 1889(선물 교환).cpp">
       <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
+    <ClCompile Include="백준2470(두 용액).cpp">
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
