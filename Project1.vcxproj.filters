@@ -67,9 +67,6 @@
     <ClCompile Include="백준9935(문자열 폭발).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준10802(369게임).cpp">
-      <Filter>Coding Test\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준11559(puyo).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
@@ -110,7 +107,13 @@
       <Filter>Coding Test\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="백준 1937번(욕심쟁이 판다).cpp">
-      <Filter>Coding Test\백준</Filter>
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
+    <ClCompile Include="백준10802(369게임).cpp">
+      <Filter>Coding Test\못푼거</Filter>
+    </ClCompile>
+    <ClCompile Include="백준2470(두 용액).cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -128,6 +131,12 @@
     </Filter>
     <Filter Include="Coding Test\프로그래머스">
       <UniqueIdentifier>{d606b3b9-fdd1-495e-a21b-d54ed79296bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Coding Test\못푼거">
+      <UniqueIdentifier>{3e16511e-af69-4103-8fdd-d44d2bbfe370}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Coding Test\못푼거%28푸는중%29">
+      <UniqueIdentifier>{347c9737-523e-4fdb-96f3-59166f3cfebd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
