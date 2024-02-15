@@ -1,0 +1,81 @@
+#include <iostream>
+
+
+class MYFloat final
+{
+public:
+	MYFloat()
+		: x(0.0f), y(0.0f), z(0.0f) {}
+
+	MYFloat(float _x, float _y, float _z)
+		: x(_x), y(_y), z(_z) {}
+
+	float x;
+	float y;
+	float z;
+
+	MYFloat& operator + (const MYFloat& _other) const
+	{
+		MYFloat Return = *this;
+		Return.x += _other.x;
+		Return.y += _other.y;
+		Return.z += _other.z;
+		return Return;
+	}
+
+	MYFloat& operator - (const MYFloat& _other) const
+	{
+		MYFloat Return = *this;
+		Return.x -= _other.x;
+		Return.y -= _other.y;
+		Return.z -= _other.z;
+		return Return;
+	}
+
+	MYFloat& operator / (const MYFloat& _other) const
+	{
+		MYFloat Return = *this;
+		Return.x /= _other.x;
+		Return.y /= _other.y;
+		Return.z /= _other.z;
+		return Return;
+	}
+
+	
+
+	MYFloat& operator * (const MYFloat& _other) const
+	{
+		MYFloat Return = *this;
+		Return.x *= _other.x;
+		Return.y *= _other.y;
+		Return.z *= _other.z;
+		return Return;
+	}
+
+	bool operator ==(const MYFloat& _Other)
+	{
+		return _Other.x == x && _Other.y == y && _Other.z == z;
+	}
+
+
+	MYFloat& operator +=(const MYFloat& _Other)
+	{
+		*this = *this + _Other;
+		return *this;
+	}
+
+	
+
+
+};
+
+int main()
+{
+	MYFloat Test;
+	MYFloat Test2(10, 20, 30);
+	
+	Test = Test2;
+	Test += Test2;
+
+	std::cout << Test.x << " " << Test.y << " " << Test.z;
+}
