@@ -132,6 +132,7 @@
     <ClCompile Include="defalut parameter.cpp" />
     <ClCompile Include="main parameter.cpp" />
     <ClCompile Include="Operator.cpp" />
+    <ClCompile Include="Segment Tree.cpp" />
     <ClCompile Include="Struct Parameter.cpp" />
     <ClCompile Include="t\namespace.cpp" />
     <ClCompile Include="t\알고리즘%28다익스트라%29.cpp" />
