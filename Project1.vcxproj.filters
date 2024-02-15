@@ -106,17 +106,17 @@
     <ClCompile Include="프로그래머스lv3(야근지수).cpp">
       <Filter>Coding Test\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1937번(욕심쟁이 판다).cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
-    </ClCompile>
     <ClCompile Include="백준10802(369게임).cpp">
       <Filter>Coding Test\못푼거</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1889(선물 교환).cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
-    </ClCompile>
     <ClCompile Include="백준2470(두 용액).cpp">
       <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1937번(욕심쟁이 판다).cpp">
+      <Filter>Coding Test\못푼거</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1889(선물 교환).cpp">
+      <Filter>Coding Test\못푼거</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

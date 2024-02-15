@@ -22,11 +22,16 @@
 //			{
 //				SideCheck = true;
 //				if (Num[NY][NX] != 0) {
-//					int SetC=Count+Num[NY][NX];
-//					if (Num[_StartY][_StartX] < SetC)
-//						Num[_StartY][_StartX] = SetC;
-//					if (SetC > Max)
-//						Max = SetC;
+//					if (Count != 1)
+//						if (Num[Y][X]<1+Num[NY][NX])
+//							Num[Y][X] = 1 + Num[NY][NX];
+//					else {
+//						int SetC = Count + Num[NY][NX];
+//						if (Num[_StartY][_StartX] < SetC)
+//							Num[_StartY][_StartX] = SetC;
+//						if (SetC > Max)
+//							Max = SetC;
+//					}
 //				}
 //				else {
 //					Solution(NX, NY, Count + 1, _StartX, _StartY);
