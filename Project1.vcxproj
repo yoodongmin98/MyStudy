@@ -141,7 +141,6 @@
     <ClCompile Include="using,namespace.cpp" />
     <ClCompile Include="try catch.cpp" />
     <ClCompile Include="백준 1327번(소트 게임).cpp" />
-    <ClCompile Include="백준 1889(선물 교환).cpp" />
     <ClCompile Include="백준 1937번(욕심쟁이 판다).cpp" />
     <ClCompile Include="백준1001(A-B).cpp" />
     <ClCompile Include="백준1038(감소하는 수).cpp" />

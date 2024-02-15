@@ -113,10 +113,7 @@
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 1937번(욕심쟁이 판다).cpp">
-      <Filter>Coding Test\못푼거</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1889(선물 교환).cpp">
-      <Filter>Coding Test\못푼거</Filter>
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
