@@ -118,6 +118,9 @@
     <ClCompile Include="Operator.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘(에라토스테네스의 체).cpp">
+      <Filter>Algorithm</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
