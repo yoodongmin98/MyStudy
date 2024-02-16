@@ -122,7 +122,7 @@
       <Filter>Algorithm</Filter>
     </ClCompile>
     <ClCompile Include="Segment Tree.cpp">
-      <Filter>Data Structure</Filter>
+      <Filter>C++_Data Structure</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -147,7 +147,7 @@
     <Filter Include="Coding Test\못푼거%28푸는중%29">
       <UniqueIdentifier>{347c9737-523e-4fdb-96f3-59166f3cfebd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Data Structure">
+    <Filter Include="C++_Data Structure">
       <UniqueIdentifier>{a0775134-2a2d-46b5-8bc6-e28b3f3643c0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
