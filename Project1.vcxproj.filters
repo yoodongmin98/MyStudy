@@ -127,6 +127,9 @@
     <ClCompile Include="RedBlack Tree.cpp">
       <Filter>C++_Data Structure</Filter>
     </ClCompile>
+    <ClCompile Include="백준2357번(최솟값과 최댓값).cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
