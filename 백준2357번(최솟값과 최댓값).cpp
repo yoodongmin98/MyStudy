@@ -1,56 +1,65 @@
 //#include <iostream>
 //#include <vector>
 //#include <cmath>
-//#include <queue>
+//#define Max 1000000001
 //using namespace std;
 //
 //int N, M;
-//vector<int> Arr; //값을 넣을 배열
-//vector<pair<int,int>> SegmentTree;//세그먼트 트리												
-//queue<int> Result; //결과값 담을 Q
-//int Max = INT_MIN;
-//int Min = INT_MAX;
-//pair<int,int> FindValue(int Node,int Start,int End,int Left,int Right)
+//vector<int> Arr;
+//vector<int> MaxTree;
+//vector<int> MinTree;
+//vector<int> Result;
+//pair<int,int> FindValue(int Node, int Start, int End, int Left, int Right)
 //{
-//
-//}
-//int CreateTree(int Node,int Start,int End)
-//{
-//	if (Start == End) return SegmentTree[Node] = make_pair(0,Arr[Start]);
+//	if (Left > End || Right < Start) 
+//	{ 
+//		return make_pair(0,Max);
+//	}
+//	if (Left <= Start && End <= Right) 
+//	{ 
+//		return make_pair(MaxTree[Node],MinTree[Node]); 
+//	}
 //	int Mid = (Start + End) / 2;
-//	int Left = CreateTree(Node * 2, Start, Mid);
-//	int Right = CreateTree(Node * 2 + 1, Mid + 1, End);
-//	SegmentTree[Node] = make_pair(Left, Right);
-//	return SegmentTree[Node];
+//	pair L = FindValue(Node * 2, Start, Mid, Left, Right);
+//	pair R = FindValue(Node * 2+1, Mid+1, End, Left, Right);
+//	return make_pair(max(L.first,R.first),min(L.second,R.second));
+//}
+//void CreateTree(int Node, int Start, int End)
+//{
+//	if (Start == End) {
+//		MaxTree[Node] = Arr[End];
+//		MinTree[Node] = Arr[End];
+//		return;
+//	}
+//	int Mid = (Start + End) / 2;
+//	CreateTree(Node * 2, Start, Mid);
+//	CreateTree(Node * 2+1, Mid+1, End);
+//	MaxTree[Node] = max(MaxTree[Node * 2], MaxTree[(Node * 2) + 1]);
+//	MinTree[Node] = min(MinTree[Node * 2], MinTree[(Node * 2) + 1]);
 //}
 //int main()
 //{
-//	cin >> N >> M;
-//	int TreeHeight = sqrt(N) + 1;
-//	int TreeSize = 1 << (TreeHeight + 1);
-//	SegmentTree.resize(TreeSize);
+//	cin >> N;
+//	cin >> M;
+//	MaxTree.resize(N*4);
+//	MinTree.resize(N*4);
 //	for (auto i = 0; i < N; ++i)
 //	{
 //		int Num;
 //		cin >> Num;
 //		Arr.push_back(Num);
 //	}
-//	CreateTree(1,0,Arr.size()-1); //트리 생성
-//	for (auto i = 0; i < M; ++i)
+//	CreateTree(1, 0, Arr.size() - 1);
+//	for (auto k = 0; k <M; ++k)
 //	{
-//		int Left, Right;
-//		cin >> Left >> Right;
-//		pair R = FindValue(1,0,Arr.size()-1,Left,Right);
-//		Result.push(R.first);
-//		Result.push(R.second);
-//		Max = INT_MIN;
-//		Min = INT_MAX;
+//		int L, R;
+//		cin >> L >> R;
+//		pair p = FindValue(1, 1, Arr.size() , L, R);
+//		Result.push_back(p.second);
+//		Result.push_back(p.first);
 //	}
-//	while (!Result.empty())
+//	for (auto j = 0; j < Result.size(); j+=2)
 //	{
-//		for (auto i = 0; i < 2; ++i) {
-//			cout << Result.front() << " "; Result.pop();
-//		}
-//		cout << endl;
+//		cout << Result[j] << " " << Result[j + 1] << "\n";
 //	}
 //}
