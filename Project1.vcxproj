@@ -132,6 +132,7 @@
     <ClCompile Include="defalut parameter.cpp" />
     <ClCompile Include="main parameter.cpp" />
     <ClCompile Include="Operator.cpp" />
+    <ClCompile Include="RedBlack Tree.cpp" />
     <ClCompile Include="Segment Tree.cpp" />
     <ClCompile Include="Struct Parameter.cpp" />
     <ClCompile Include="t\namespace.cpp" />
@@ -170,6 +171,9 @@
     <ClCompile Include="프로그래머스lv2(할인행사).cpp" />
     <ClCompile Include="프로그래머스lv3(셔틀버스).cpp" />
     <ClCompile Include="프로그래머스lv3(야근지수).cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RedBlack Tree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -124,6 +124,9 @@
     <ClCompile Include="Segment Tree.cpp">
       <Filter>C++_Data Structure</Filter>
     </ClCompile>
+    <ClCompile Include="RedBlack Tree.cpp">
+      <Filter>C++_Data Structure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
@@ -150,5 +153,10 @@
     <Filter Include="C++_Data Structure">
       <UniqueIdentifier>{a0775134-2a2d-46b5-8bc6-e28b3f3643c0}</UniqueIdentifier>
     </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RedBlack Tree.h">
+      <Filter>C++_Data Structure</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
