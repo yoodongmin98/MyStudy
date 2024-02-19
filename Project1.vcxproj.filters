@@ -134,7 +134,7 @@
       <Filter>Coding Test\못푼거%28푸는중%29</Filter>
     </ClCompile>
     <ClCompile Include="백준 1520번(내리막 길).cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
