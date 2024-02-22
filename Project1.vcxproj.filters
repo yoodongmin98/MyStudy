@@ -130,14 +130,14 @@
     <ClCompile Include="백준2357번(최솟값과 최댓값).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1655번(가운데를 말해요).cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1520번(내리막 길).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준2206번(벽 부수고 이동하기).cpp">
       <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1655번(가운데를 말해요).cpp">
+      <Filter>Coding Test\못푼거</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
