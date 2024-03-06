@@ -8,7 +8,7 @@
 //int S1(vector<vector<bool>> _Map,int _Size)
 //{
 //	int Result = 0;
-//	for (auto i = 0; i < _Size/2+1; ++i){//0~절반까지
+//	for (auto i = 0; i < _Size/2+1; ++i){
 //		bool LC = false;
 //		for (auto j = 0; j < _Size; ++j){
 //			if (_Map[i][j] == true && false == LC){
@@ -21,12 +21,16 @@
 //			}
 //		}
 //	}
-//	for (auto i = _Size-1; i >_Size/2; --i){//절반부터~size까지
+//	for (auto i = _Size-1; i >_Size/2; --i){
 //		bool LC = false;
 //		for (auto j = _Size-1; j >= 0; --j){
-//			if (_Map[i][j] == true && false == LC){
+//			if (_Map[i][j] == true && false == LC){  
 //				LC = true;
 //				Result++;
+//				for (auto k = i; k > _Size/2; --k) {
+//					if (_Map[k][j] == true)
+//						_Map[k][j] = false;
+//				}
 //			}
 //		}
 //	}
@@ -35,7 +39,7 @@
 //int S2(vector<vector<bool>> _Map,int _Size)
 //{
 //	int Result = 0;
-//	for (auto i = _Size-1; i > _Size / 2 ; --i) { //Size~절반까지 8 7 6 5
+//	for (auto i = _Size-1; i >= _Size / 2 ; --i) {
 //		bool LC = false;
 //		for (auto j = 0; j < _Size; ++j) {
 //			if (_Map[i][j] == true && false == LC) {
@@ -48,12 +52,16 @@
 //			}
 //		}
 //	}
-//	for (auto i = 0; i <_Size/2+1; ++i) { //0부터 절반까지 0 1 2 3 4
+//	for (auto i = 0; i <_Size/2; ++i) {
 //		bool LC = false;
 //		for (auto j = _Size - 1; j >= 0; --j) {
 //			if (_Map[i][j] == true && false == LC) {
 //				LC = true;
 //				Result++;
+//				for (auto k = i; k < _Size / 2; ++k) {
+//					if (_Map[k][j] == true)
+//						_Map[k][j] = false;
+//				}
 //			}
 //		}
 //	}
