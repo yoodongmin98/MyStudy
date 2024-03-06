@@ -151,6 +151,9 @@
     <ClCompile Include="백준1715(카드 정렬하기).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준2166%28다각형의 면적%29.cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">

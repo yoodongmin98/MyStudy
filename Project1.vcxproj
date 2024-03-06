@@ -152,6 +152,7 @@
     <ClCompile Include="백준10802(369게임).cpp" />
     <ClCompile Include="백준1141(접두사).cpp" />
     <ClCompile Include="백준11559(puyo).cpp" />
+    <ClCompile Include="백준2166%28다각형의 면적%29.cpp" />
     <ClCompile Include="백준1715(카드 정렬하기).cpp" />
     <ClCompile Include="백준1799(비숍).cpp" />
     <ClCompile Include="백준1926%28그림%29.cpp" />
