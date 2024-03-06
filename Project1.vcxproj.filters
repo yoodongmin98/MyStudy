@@ -154,6 +154,9 @@
     <ClCompile Include="백준2166%28다각형의 면적%29.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준15550(if2).cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
