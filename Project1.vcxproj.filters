@@ -34,7 +34,7 @@
     <ClCompile Include="알고리즘(투 포인터).cpp">
       <Filter>Algorithm</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1327번(소트 게임).cpp">
+    <ClCompile Include="백준1327%28소트 게임%29.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준1001(A-B).cpp">
@@ -112,7 +112,7 @@
     <ClCompile Include="백준2470(두 용액).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1937번(욕심쟁이 판다).cpp">
+    <ClCompile Include="백준1937%28욕심쟁이 판다%29.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="Operator.cpp">
@@ -130,7 +130,7 @@
     <ClCompile Include="백준2357번(최솟값과 최댓값).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1520번(내리막 길).cpp">
+    <ClCompile Include="백준1520%28내리막 길%29.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준2206번(벽 부수고 이동하기).cpp">
@@ -155,7 +155,7 @@
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준15550(if2).cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
