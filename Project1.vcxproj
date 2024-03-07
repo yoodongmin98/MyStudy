@@ -163,7 +163,7 @@
     <ClCompile Include="백준2470(두 용액).cpp" />
     <ClCompile Include="백준2505(두번뒤집기).cpp" />
     <ClCompile Include="백준2512(예산).cpp" />
-    <ClCompile Include="백준5430번(AC).cpp" />
+    <ClCompile Include="백준5052(전화번호목록).cpp" />
     <ClCompile Include="백준5525번(IOIOI).cpp" />
     <ClCompile Include="백준8111(0과 1).cpp" />
     <ClCompile Include="백준8911(거북이).cpp" />

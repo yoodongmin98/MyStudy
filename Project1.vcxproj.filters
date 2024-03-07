@@ -145,9 +145,6 @@
     <ClCompile Include="백준5525번(IOIOI).cpp">
       <Filter>Coding Test\못푼거</Filter>
     </ClCompile>
-    <ClCompile Include="백준5430번(AC).cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
-    </ClCompile>
     <ClCompile Include="백준1715(카드 정렬하기).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
@@ -155,6 +152,9 @@
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준15550(if2).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준5052(전화번호목록).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
