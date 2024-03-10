@@ -160,6 +160,12 @@
     <ClCompile Include="백준3109(빵집).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준1600(말이 되고픈 원숭이).cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1725(히스토그램).cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">

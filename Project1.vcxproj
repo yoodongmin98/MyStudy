@@ -146,6 +146,8 @@
     <ClCompile Include="백준1327%28소트 게임%29.cpp" />
     <ClCompile Include="백준1520%28내리막 길%29.cpp" />
     <ClCompile Include="백준 1655번(가운데를 말해요).cpp" />
+    <ClCompile Include="백준1600(말이 되고픈 원숭이).cpp" />
+    <ClCompile Include="백준1725(히스토그램).cpp" />
     <ClCompile Include="백준1937%28욕심쟁이 판다%29.cpp" />
     <ClCompile Include="백준1001(A-B).cpp" />
     <ClCompile Include="백준1038(감소하는 수).cpp" />
