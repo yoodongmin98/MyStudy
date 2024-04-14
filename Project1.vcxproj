@@ -146,6 +146,7 @@
     <ClCompile Include="try catch.cpp" />
     <ClCompile Include="백준11723 (집합).cpp" />
     <ClCompile Include="백준1327%28소트 게임%29.cpp" />
+    <ClCompile Include="백준14500(테트로미노).cpp" />
     <ClCompile Include="백준1520%28내리막 길%29.cpp" />
     <ClCompile Include="백준 1655번(가운데를 말해요).cpp" />
     <ClCompile Include="백준1600(말이 되고픈 원숭이).cpp" />
