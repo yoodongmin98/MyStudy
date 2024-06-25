@@ -149,8 +149,6 @@
     <ClCompile Include="백준14500(테트로미노).cpp" />
     <ClCompile Include="백준1520%28내리막 길%29.cpp" />
     <ClCompile Include="백준 1655번(가운데를 말해요).cpp" />
-    <ClCompile Include="백준1600(말이 되고픈 원숭이).cpp" />
-    <ClCompile Include="백준1725(히스토그램).cpp" />
     <ClCompile Include="백준1937%28욕심쟁이 판다%29.cpp" />
     <ClCompile Include="백준1001(A-B).cpp" />
     <ClCompile Include="백준1038(감소하는 수).cpp" />
@@ -168,6 +166,7 @@
     <ClCompile Include="백준2470(두 용액).cpp" />
     <ClCompile Include="백준2505(두번뒤집기).cpp" />
     <ClCompile Include="백준2512(예산).cpp" />
+    <ClCompile Include="백준2630(색종이 만들기).cpp" />
     <ClCompile Include="백준3109(빵집).cpp" />
     <ClCompile Include="백준5052(전화번호목록).cpp" />
     <ClCompile Include="백준5525번(IOIOI).cpp" />
