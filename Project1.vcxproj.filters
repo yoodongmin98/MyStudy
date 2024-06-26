@@ -172,6 +172,12 @@
     <ClCompile Include="백준2630(색종이 만들기).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준1992%28쿼드트리%29.cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1780(종이의 개수).cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
