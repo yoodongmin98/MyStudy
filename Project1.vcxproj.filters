@@ -178,6 +178,9 @@
     <ClCompile Include="백준1780(종이의 개수).cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준 1316(그룹 단어 체커).cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
