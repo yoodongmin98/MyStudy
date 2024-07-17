@@ -179,6 +179,9 @@
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 1316(그룹 단어 체커).cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 4673(셀프 넘버).cpp">
       <Filter>Coding Test\못푼거%28푸는중%29</Filter>
     </ClCompile>
   </ItemGroup>
