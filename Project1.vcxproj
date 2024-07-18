@@ -146,7 +146,6 @@
     <ClCompile Include="try catch.cpp" />
     <ClCompile Include="백준1316%28그룹 단어 체커%29.cpp" />
     <ClCompile Include="백준 4673(셀프 넘버).cpp" />
-    <ClCompile Include="백준10828(스택).cpp" />
     <ClCompile Include="백준11723 (집합).cpp" />
     <ClCompile Include="백준11866%28요세푸스 문제0%29.cpp" />
     <ClCompile Include="백준1327%28소트 게임%29.cpp" />
@@ -167,6 +166,7 @@
     <ClCompile Include="백준1799(비숍).cpp" />
     <ClCompile Include="백준1926%28그림%29.cpp" />
     <ClCompile Include="백준21610(마법사 상어와 비바라기).cpp" />
+    <ClCompile Include="백준2178(미로 탐색).cpp" />
     <ClCompile Include="백준2206번(벽 부수고 이동하기).cpp" />
     <ClCompile Include="백준2357번(최솟값과 최댓값).cpp" />
     <ClCompile Include="백준2470(두 용액).cpp" />
