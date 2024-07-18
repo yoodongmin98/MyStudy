@@ -144,9 +144,11 @@
     <ClCompile Include="t\프로그래머스lv2(주식가격).cpp" />
     <ClCompile Include="using,namespace.cpp" />
     <ClCompile Include="try catch.cpp" />
-    <ClCompile Include="백준 1316(그룹 단어 체커).cpp" />
+    <ClCompile Include="백준1316%28그룹 단어 체커%29.cpp" />
     <ClCompile Include="백준 4673(셀프 넘버).cpp" />
+    <ClCompile Include="백준10828(스택).cpp" />
     <ClCompile Include="백준11723 (집합).cpp" />
+    <ClCompile Include="백준11866%28요세푸스 문제0%29.cpp" />
     <ClCompile Include="백준1327%28소트 게임%29.cpp" />
     <ClCompile Include="백준14500(테트로미노).cpp" />
     <ClCompile Include="백준1520%28내리막 길%29.cpp" />
