@@ -193,6 +193,9 @@
     <ClCompile Include="백준2606%28바이러스%29-S3.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준2667(단지번호붙이기)-S1.cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">
