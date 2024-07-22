@@ -196,6 +196,9 @@
     <ClCompile Include="백준2667(단지번호붙이기)-S1.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준1012(유기농 배추)-S2.cpp">
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">

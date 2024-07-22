@@ -144,6 +144,7 @@
     <ClCompile Include="t\프로그래머스lv2(주식가격).cpp" />
     <ClCompile Include="using,namespace.cpp" />
     <ClCompile Include="try catch.cpp" />
+    <ClCompile Include="백준1012(유기농 배추)-S2.cpp" />
     <ClCompile Include="백준1316%28그룹 단어 체커%29-S5.cpp" />
     <ClCompile Include="백준2606%28바이러스%29-S3.cpp" />
     <ClCompile Include="백준2667(단지번호붙이기)-S1.cpp" />
