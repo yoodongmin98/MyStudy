@@ -1,28 +1,35 @@
 //#include <iostream>
-//#include <vector>
-//#include <queue>
+//#include <set>
 //using namespace std;
 //
 //int N;
-//vector<int> Num;
-//priority_queue<int> R;
+//multiset<int> S;
+//multiset<int>::iterator mid = S.begin();
 //
-//int main()
-//{
-//	ios_base::sync_with_stdio(0);
-//	cin.tie(NULL);
-//	cout.tie(NULL);
-//	cin >> N;
-//	for (auto i = 1; i <= N; ++i)
-//	{
-//		int Say;
-//		cin >> Say;
-//		Num.push_back(Say);
-//		
-//	}
-//	while (!R.empty())
-//	{
-//		cout << R.front() << "\n";
-//		R.pop();
-//	}
+//int main() {
+//    ios_base::sync_with_stdio(0);
+//    cin.tie(NULL);
+//    cout.tie(NULL);
+//    cin >> N;
+// 
+//    for (int i = 0; i < N; ++i) {
+//        int num;
+//        cin >> num;
+//        S.insert(num);
+//
+//        if (i == 0) 
+//            mid = S.begin();
+//        else 
+//        {
+//            if (num < *mid) {
+//                if (S.size() % 2 == 0)
+//                    mid--;
+//            }
+//            else {
+//                if (S.size() % 2 == 1)
+//                    mid++;
+//            }
+//        }
+//        cout << *mid << "\n";
+//    }
 //}

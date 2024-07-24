@@ -160,7 +160,6 @@
     <ClCompile Include="백준1937%28욕심쟁이 판다%29-G3.cpp" />
     <ClCompile Include="백준1001%28A-B%29-B5.cpp" />
     <ClCompile Include="백준1038%28감소하는 수%29-G5.cpp" />
-    <ClCompile Include="백준10802%28369게임%29%28P2%29.cpp" />
     <ClCompile Include="백준1141%28접두사%29-S1.cpp" />
     <ClCompile Include="백준11559%28puyo%29-G4.cpp" />
     <ClCompile Include="백준15550%28if2%29-G4.cpp" />

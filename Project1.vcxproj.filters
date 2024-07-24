@@ -106,9 +106,6 @@
     <ClCompile Include="프로그래머스lv3(야근지수).cpp">
       <Filter>Coding Test\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준10802%28369게임%29%28P2%29.cpp">
-      <Filter>Coding Test\못푼거</Filter>
-    </ClCompile>
     <ClCompile Include="백준2470%28두 용액%29-G5.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
@@ -135,9 +132,6 @@
     </ClCompile>
     <ClCompile Include="백준2206번%28벽 부수고 이동하기%29-G3.cpp">
       <Filter>Coding Test\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1655번%28가운데를 말해요%29%28G2%29.cpp">
-      <Filter>Coding Test\못푼거</Filter>
     </ClCompile>
     <ClCompile Include="백준1799%28비숍%29%28G1%29.cpp">
       <Filter>Coding Test\못푼거</Filter>
@@ -200,7 +194,10 @@
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준7576(토마토)-G5.cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+      <Filter>Coding Test\푸는중</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1655번%28가운데를 말해요%29%28G2%29.cpp">
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -222,11 +219,11 @@
     <Filter Include="Coding Test\못푼거">
       <UniqueIdentifier>{3e16511e-af69-4103-8fdd-d44d2bbfe370}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Coding Test\못푼거%28푸는중%29">
-      <UniqueIdentifier>{347c9737-523e-4fdb-96f3-59166f3cfebd}</UniqueIdentifier>
-    </Filter>
     <Filter Include="C++_Data Structure">
       <UniqueIdentifier>{a0775134-2a2d-46b5-8bc6-e28b3f3643c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Coding Test\푸는중">
+      <UniqueIdentifier>{347c9737-523e-4fdb-96f3-59166f3cfebd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
