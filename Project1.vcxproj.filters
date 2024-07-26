@@ -193,10 +193,10 @@
     <ClCompile Include="백준1012(유기농 배추)-S2.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준7576(토마토)-G5.cpp">
-      <Filter>Coding Test\푸는중</Filter>
+    <ClCompile Include="백준1655번%28가운데를 말해요%29%28G2%29.cpp">
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1655번%28가운데를 말해요%29%28G2%29.cpp">
+    <ClCompile Include="백준2877%284와7%29-G5.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
