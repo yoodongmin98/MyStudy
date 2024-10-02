@@ -1,4 +1,4 @@
-https://github.com/yoodongmin98/MyStudy/blob/master/maxresdefault.jpg
+!https://github.com/yoodongmin98/MyStudy/blob/master/maxresdefault.jpg
 
 ##프로젝트 소개
 
