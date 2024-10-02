@@ -1,4 +1,4 @@
-[[[<img src="https://capsule-render.vercel.app/api?type=모양&color=yellow&height=20&section=header&text=It Takes Two&fontSize=40" />](https://i.ytimg.com/vi/AYITgQJVYq4/maxresdefault.jpg)]
+https://github.com/yoodongmin98/MyStudy/blob/master/maxresdefault.jpg
 
 ##프로젝트 소개
 
