@@ -205,8 +205,11 @@
     <ClCompile Include="thread.cpp">
       <Filter>C++</Filter>
     </ClCompile>
-    <ClCompile Include="백준1697%28숨바꼭질%29-S1.cpp">
+    <ClCompile Include="백준3273(두 수의 합)-S3.cpp">
       <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
+    <ClCompile Include="백준2559(수열)-S3.cpp">
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
