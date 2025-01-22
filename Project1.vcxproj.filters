@@ -202,6 +202,12 @@
     <ClCompile Include="백준2448(별찍기)-G4.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
+    <ClCompile Include="thread.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1697%28숨바꼭질%29-S1.cpp">
+      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++">

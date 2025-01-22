@@ -136,6 +136,7 @@
     <ClCompile Include="Segment Tree.cpp" />
     <ClCompile Include="Smart Pointer.cpp" />
     <ClCompile Include="Struct Parameter.cpp" />
+    <ClCompile Include="thread.cpp" />
     <ClCompile Include="t\namespace.cpp" />
     <ClCompile Include="t\알고리즘%28다익스트라%29.cpp" />
     <ClCompile Include="t\백준14940%28쉬운 최단거리%29-S1.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="try catch.cpp" />
     <ClCompile Include="백준1012(유기농 배추)-S2.cpp" />
     <ClCompile Include="백준1316%28그룹 단어 체커%29-S5.cpp" />
+    <ClCompile Include="백준1697%28숨바꼭질%29-S1.cpp" />
     <ClCompile Include="백준2448(별찍기)-G4.cpp" />
     <ClCompile Include="백준2606%28바이러스%29-S3.cpp" />
     <ClCompile Include="백준2667(단지번호붙이기)-S1.cpp" />
