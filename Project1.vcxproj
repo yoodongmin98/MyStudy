@@ -149,6 +149,7 @@
     <ClCompile Include="백준11728(배열 합치기)-S5.cpp" />
     <ClCompile Include="백준1316%28그룹 단어 체커%29-S5.cpp" />
     <ClCompile Include="백준1644(소수의 연속합)-G3.cpp" />
+    <ClCompile Include="백준1940(주몽)-S4.cpp" />
     <ClCompile Include="백준2448(별찍기)-G4.cpp" />
     <ClCompile Include="백준2467(용액)-G5.cpp" />
     <ClCompile Include="백준2559(수열)-S3.cpp" />
