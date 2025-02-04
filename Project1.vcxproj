@@ -157,6 +157,7 @@
     <ClCompile Include="백준2559(수열)-S3.cpp" />
     <ClCompile Include="백준2606%28바이러스%29-S3.cpp" />
     <ClCompile Include="백준2667(단지번호붙이기)-S1.cpp" />
+    <ClCompile Include="백준2839번(설탕배달)-S4.cpp" />
     <ClCompile Include="백준3273(두 수의 합)-S3.cpp" />
     <ClCompile Include="백준4673%28셀프 넘버%29-S5.cpp" />
     <ClCompile Include="백준11723 %28집합%29-S5.cpp" />
