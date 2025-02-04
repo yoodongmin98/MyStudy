@@ -147,6 +147,7 @@
     <ClCompile Include="try catch.cpp" />
     <ClCompile Include="백준1012(유기농 배추)-S2.cpp" />
     <ClCompile Include="백준11728(배열 합치기)-S5.cpp" />
+    <ClCompile Include="백준1253(좋다)-G4.cpp" />
     <ClCompile Include="백준1316%28그룹 단어 체커%29-S5.cpp" />
     <ClCompile Include="백준1644(소수의 연속합)-G3.cpp" />
     <ClCompile Include="백준1940(주몽)-S4.cpp" />
@@ -174,7 +175,7 @@
     <ClCompile Include="백준15550%28if2%29-G4.cpp" />
     <ClCompile Include="백준2166%28다각형의 면적%29_G5.cpp" />
     <ClCompile Include="백준1715%28카드 정렬하기%29-G4.cpp" />
-    <ClCompile Include="백준1799%28비숍%29%28G1%29.cpp" />
+    <ClCompile Include="백준1799%28비숍%29-P5.cpp" />
     <ClCompile Include="백준1926%28그림%29-S1.cpp" />
     <ClCompile Include="백준21610%28마법사 상어와 비바라기%29-G5.cpp" />
     <ClCompile Include="백준2178%28미로 탐색%29-S1.cpp" />

@@ -133,7 +133,7 @@
     <ClCompile Include="백준2206번%28벽 부수고 이동하기%29-G3.cpp">
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준1799%28비숍%29%28G1%29.cpp">
+    <ClCompile Include="백준1799%28비숍%29-P5.cpp">
       <Filter>Coding Test\못푼거</Filter>
     </ClCompile>
     <ClCompile Include="백준5525번%28IOIOI%29%28S1%29.cpp">
@@ -224,7 +224,10 @@
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준2018 (수들의 합5)-S5.cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+      <Filter>Coding Test\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1253(좋다)-G4.cpp">
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
