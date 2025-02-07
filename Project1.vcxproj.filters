@@ -230,7 +230,7 @@
       <Filter>Coding Test\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준2839번(설탕배달)-S4.cpp">
-      <Filter>Coding Test\못푼거%28푸는중%29</Filter>
+      <Filter>Coding Test\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
